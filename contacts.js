@@ -5,7 +5,6 @@ const path = require('node:path');
 const contactsPath = path.join('db', 'contacts.json');
 
 const listContacts = async () => {
-    const contactsPath = path.join('db', 'contacts.json');
     return JSON.parse(await fs.readFile(contactsPath))
 };
 
