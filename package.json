@@ -17,5 +17,6 @@
     "nanoid": "^4.0.2",
     "uuid": "^9.0.0"
   },
-  "description": ""
+  "description": "node index.js --action=\"list\" https://monosnap.com/file/W1oZdtsNlrvXAiNmPmB1HpT44wecbx",
+  "keywords": []
 }
